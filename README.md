@@ -1,1 +1,1 @@
-# Numerical-Method-of-Solviing-PDEs
+# Numerical-Approximation-of-PDEs-Finite-Difference-And-Finite-Volome-Galerkin Method
